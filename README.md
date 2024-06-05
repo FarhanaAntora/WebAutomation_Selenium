@@ -1,6 +1,6 @@
 # TestAutomation
 ## Overview
-This repository cntains an automated testing project designed to thoroughly test the functionality of the e-commerce website using Selenium WebDriver and TestNG.
+This repository contains an automated testing project designed to thoroughly test the functionality of the e-commerce website using Selenium WebDriver and TestNG.
 
 ## Features:
 1. Selenium WebDriver: Utilizes Selenium's powerful automation capabilities to interact with web elements, simulate user actions, and perform various tests on the e-commerce website.
